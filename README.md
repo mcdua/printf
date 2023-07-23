@@ -1,6 +1,6 @@
-# 0x11. C - printf team project by two individuals
+# 0x11. C - printf team project by two individuals.
 
-## Group Project: A collabration between Isaac Castro McDuah and Robespierre Wemakwo Abatey
+## Group Project: A collabration between Isaac Castro McDuah and Robespierre Wemakwo Abatey.
 
 ## This is a README file highlighting the various task to be perform, in the 0x11. C- printf project.
 
