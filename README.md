@@ -1,4 +1,4 @@
-# 0x11. C - printf team project
+# 0x11. C - printf team project by two individuals
 
 ## Group Project: A collabration between Isaac Castro McDuah and Robespierre Wemakwo Abatey
 
